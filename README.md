@@ -30,7 +30,7 @@
 
 ### 🐍 Snake Comiendo mis Contribuciones
 <p align="center">
-  <img src="https://github.com/athonii/thonii/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
+  <img src="https://github.com/Thonii/Thonii/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 </p>
 
 ---
