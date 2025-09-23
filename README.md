@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Thonii/Thonii/blob/main/bannerFinal.png?raw=true" alt="¡Hola, soy Anthony!" width="600"/>
+  <img src="https://github.com/Thonii/Thonii/blob/main/bannerFinal.png?raw=true" alt="¡Hola, soy Anthony!" width="1280"/>
 </div>
 
 <h1 align="center">¡Hola! Soy Anthony 👋</h1>
