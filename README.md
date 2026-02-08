@@ -3,16 +3,8 @@
 </div>
 
 <h1 align="center">¡Hola! Soy Anthony 👋</h1>
-<h3 align="center">Un developer de Perú 🌮💻</h3>
+<h3 align="center">Un developer de Perú 💻</h3>
 
-
----
-
-### 🐍 Snake Comiendo mis Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thonii/Thonii/output/github-contribution-grid-snake.svg" alt="Snake"/>
-</p>
 
 ---
 
